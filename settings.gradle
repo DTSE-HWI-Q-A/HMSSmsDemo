@@ -1,0 +1,2 @@
+rootProject.name='HMSSmsDemo'
+include ':app'
